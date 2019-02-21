@@ -9,6 +9,12 @@ h2 {
 }
 table {
   font-size: 30px;
+  text-align: left;
+  padding-left: 30px;
+}
+td {
+  text-align: left;
+  padding-left: 50px;
 }
 
 .button {
